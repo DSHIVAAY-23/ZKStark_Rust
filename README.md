@@ -11,5 +11,3 @@ A zero-knowledge virtual machine (zkVM) is a virtual machine that runs trusted c
 
 The codebase was adapted from `risc0-rust-starter` repository and is intended to be a minimal starting point for `CosmWasm` development. In this instance, we perform multiplication to prove that we know the factors of `1337`.
 
-## What's next?
-[tic-tac-toe](https://github.com/bmorphism/risc0-cosmwasm-example/issues/1)!
